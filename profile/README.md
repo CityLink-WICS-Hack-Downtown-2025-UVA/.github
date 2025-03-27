@@ -1,5 +1,3 @@
-
-<!--
 # 🌆 CityLink
 
 **CityLink** is a full-stack web application that connects travelers heading to the same city. Through real-time chatrooms, AI-powered recommendations, and collaborative tools, CityLink helps users **explore smarter and connect faster** — making every trip a shared experience.
@@ -142,6 +140,3 @@ node server.js
 ---
 
 > “CityLink – Chat. Connect. Explore.” 🌍
-
-
--->
